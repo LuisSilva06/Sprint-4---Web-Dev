@@ -6,6 +6,8 @@ O projeto foi construído utilizando o React em conjunto com o Vite, o que propo
 
 Além disso, o projeto reforça o uso de HTML5, CSS3 e JavaScript (ES6+), bem como o versionamento de código com Git e GitHub. O resultado é uma aplicação escalável, organizada e de fácil manutenção, que demonstra a aplicação prática das tecnologias modernas do ecossistema front-end.
 
+https://frontend-rho-brown-95.vercel.app
+
 Luis Gustavo RM:561672
 Kauan Benites RM:562115
 Mateus Nunes RM:562008
