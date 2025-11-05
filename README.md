@@ -1,12 +1,12 @@
-Passa a Bola – Projeto Front-End (Sprint 4)
+🌐 Sprint 4 – Projeto Web Dev: Passa a Bola
 
-O Passa a Bola é um projeto desenvolvido como parte da Sprint 4, com o objetivo de criar uma aplicação front-end moderna, responsiva e dinâmica voltada ao universo esportivo. A proposta principal é oferecer uma interface intuitiva e interativa para os usuários, explorando boas práticas de design e usabilidade.
+O Passa a Bola é um projeto desenvolvido como parte da Sprint 4 da disciplina de Desenvolvimento Web, com o objetivo de aplicar na prática os conceitos estudados sobre desenvolvimento front-end moderno utilizando React e Vite.
 
-O projeto foi construído utilizando o React em conjunto com o Vite, o que proporcionou um ambiente de desenvolvimento rápido e eficiente. Foram aplicados conceitos de componentização, estados e props, hooks, rotas com React Router e estilização modularizada.
+O projeto consiste em uma aplicação web interativa e responsiva voltada ao tema esportivo, com foco em oferecer uma interface moderna, dinâmica e intuitiva para o usuário. Foram utilizados conceitos de componentização, hooks, rotas com React Router, consumo de dados dinâmicos (JSON / APIs) e estilização modularizada, buscando sempre seguir boas práticas de organização de código e usabilidade.
 
-Além disso, o projeto reforça o uso de HTML5, CSS3 e JavaScript (ES6+), bem como o versionamento de código com Git e GitHub. O resultado é uma aplicação escalável, organizada e de fácil manutenção, que demonstra a aplicação prática das tecnologias modernas do ecossistema front-end.
+A configuração do ambiente de desenvolvimento foi feita com o Vite, que proporciona maior velocidade e eficiência no processo de build. Além disso, o projeto faz uso de HTML5, CSS3, JavaScript (ES6+) e controle de versão com Git e GitHub, garantindo um fluxo de desenvolvimento colaborativo e estruturado.
 
-https://frontend-rho-brown-95.vercel.app
+Este trabalho demonstra a aplicação dos principais fundamentos do desenvolvimento web moderno, reforçando o aprendizado de tecnologias amplamente utilizadas no mercado atual.
 
 Luis Gustavo RM:561672
 Kauan Benites RM:562115
