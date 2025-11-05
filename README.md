@@ -8,6 +8,8 @@ A configuração do ambiente de desenvolvimento foi feita com o Vite, que propor
 
 Este trabalho demonstra a aplicação dos principais fundamentos do desenvolvimento web moderno, reforçando o aprendizado de tecnologias amplamente utilizadas no mercado atual.
 
+https://webdev-seven-kappa.vercel.app
+
 Luis Gustavo RM:561672
 Kauan Benites RM:562115
 Mateus Nunes RM:562008
